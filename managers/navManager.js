@@ -1,10 +1,3 @@
-/**
-* @name NavManager
-* @extends
-* @file navManager.js
-* @author Add Your Name Here <addyouremail@gmail.com>
-* @version 1.0.0
-*/
 class NavManager {
 
 	constructor(dataManager) {
